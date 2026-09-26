@@ -5,8 +5,7 @@ The Europea Series is a companion to the NextGen OTL WorldA series of maps that
 were made by Hadaril. It's an attempt to remake the *europe* map that used to be
 a part of the NextGen series.
 
-To use them, simply download this repository. The `maps` directory contains all
-of the maps.
+To use them, simply download this repository.
 
 ## Directories
 
